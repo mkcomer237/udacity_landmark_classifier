@@ -2,3 +2,4 @@
 model_scratch.pt
 model_transfer.pt
 ignore.pt
+.ipynb_checkpoints/
